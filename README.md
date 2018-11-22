@@ -12,6 +12,8 @@ A React Native app showcasing some examples using the lightweight [react-native-
     <img src="https://raw.githubusercontent.com/bberak/react-native-game-engine-handbook/master/assets/rigid-bodies.gif" alt="Rigid Bodies Preview" height="450" />
 </p>
 
+## Issues and resultions
+1. Version of react native should be: `0.57.3`
 
 ## Quick Start iOS
 
