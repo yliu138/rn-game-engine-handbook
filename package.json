@@ -17,7 +17,7 @@
     "matter-js": "^0.13.0",
     "react": "^16.6.0-alpha.8af6728",
     "react-motion": "^0.5.0",
-    "react-native": "0.57.3",
+    "react-native": "0.57.8",
     "react-native-animatable": "^1.2.2",
     "react-native-donkey-kong": "^0.5.1",
     "react-native-extended-stylesheet": "git+https://github.com/bberak/react-native-extended-stylesheet.git",
@@ -31,7 +31,7 @@
   "devDependencies": {
     "babel-jest": "21.0.0",
     "babel-preset-react-native": "4.0.0",
-    "jest": "21.0.1",
+    "jest": "29.3.1",
     "react-test-renderer": "16.0.0-alpha.12",
     "schedule": "0.4.0"
   },
